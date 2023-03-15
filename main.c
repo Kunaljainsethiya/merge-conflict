@@ -2,12 +2,12 @@ pseudo code
 {
 Initial Function()
 {
-  //Kunal Jain
+  //Name: Kunal Jain
 }
 
 Initial Security()
 {
- // 202051107
+ // Roll Number: 202051107
 }
 
 
